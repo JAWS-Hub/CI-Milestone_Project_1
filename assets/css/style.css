@@ -1,3 +1,24 @@
 body {
     background-color: greenyellow;
 }
+
+h1 {
+    
+}
+
+#logo {
+    font-size: 250%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#trail-image {
+    
+    height: 600px;
+    width: 100%;
+    background: url('../images/trail.jpg') no-repeat center center;
+
+}
+
+footer {
+    text-align: center;
+}
