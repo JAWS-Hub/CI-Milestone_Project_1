@@ -1,5 +1,5 @@
 body {
-    background-color: antiquewhite;
+    background-color: white;
 }
 
 h1 {
@@ -17,6 +17,11 @@ h1 {
     width: 100%;
     background: url('../images/trail.jpg') no-repeat center center;
 
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 footer {
