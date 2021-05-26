@@ -2,9 +2,26 @@ body {
     background-color: white;
 }
 
-h1 {
-    
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    max-width: 100%;
+    box-sizing: border-box;
 }
+nav li {
+    display: inline-block;
+}
+nav li a {
+    color: green;
+    display: inline-block;
+    padding: 10px 30px;
+    text-decoration: none;
+    transition: background-color .2s;
+}
+nav li a:hover {
+    text-decoration: underline;
+}    
 
 #logo {
     font-size: 250%;
