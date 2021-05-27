@@ -3,12 +3,17 @@ body {
     font-family: Arial, sans-serif;
 }
 
-.container {
+h1  {
+    text-align: center;
+}
+
+.menu {
     width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
     max-width: 100%;
     box-sizing: border-box;
+    text-align: center;
 }
 nav li {
     display: inline-block;
@@ -31,17 +36,18 @@ nav li a:hover {
 }
 
 .whygeo {
-  border: 5px outset red;
-  background-color: lightblue;    
+  border: 5px outset black;
+  background-color: green;    
   text-align: center;
+  color: antiquewhite;
 }
 
 #trail-image {
     
     height: 500px;
-    width: 100%;
+    width: 150%%;
     background: url('../images/trail.jpg') no-repeat center center;
-    animation: enter-trail 10s forwards;
+    animation: enter-trail 7s forwards;
 
 }
 @keyframes enter-trail {
