@@ -30,6 +30,12 @@ nav li a:hover {
 
 }
 
+.whygeo {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
+
 #trail-image {
     
     height: 500px;
