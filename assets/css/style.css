@@ -8,7 +8,7 @@ h1  {
 }
 
 .menu {
-    width: 1200px;
+    width: 800px;
     margin: 0 auto;
     padding: 0 15px;
     max-width: 100%;
@@ -39,6 +39,14 @@ nav li a:hover {
   border: 5px outset black;
   border-radius: 15px;
   background-color: green;    
+  text-align: center;
+  color: antiquewhite;
+}
+
+.whygeo2 {
+  border: 5px outset black;
+  border-radius: 15px;
+  background-color: lightgreen;    
   text-align: center;
   color: antiquewhite;
 }
