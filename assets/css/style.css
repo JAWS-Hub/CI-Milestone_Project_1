@@ -30,6 +30,23 @@ nav li a:hover {
     text-decoration: underline;
 }    
 
+.compass_n {
+    text-align: center;
+}
+
+.compass_w {
+    float: left;
+    width: 40%;
+    padding: 280px 380px;
+}
+
+.compass_e {
+    float: right;
+    width: 20%;
+    padding: 0 70px;
+
+}
+
 #logo {
     font-size: 250%;
 
