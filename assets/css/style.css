@@ -51,6 +51,19 @@ nav li a:hover {
     animation: enter-trail 7s forwards;
 
 }
+
+#compassimage {
+    
+    height: 1000px;
+    width: 60%%;
+    background: url('../images/compass.png') no-repeat center center;
+
+
+}
+
+
+
+
 @keyframes enter-trail {
     from{
         transform: scale(0.8);
