@@ -69,9 +69,6 @@ nav li a:hover {
 
 }
 
-#galhead {
-    
-}
 
 .gallery__img {
     width: 100%;
@@ -79,7 +76,7 @@ nav li a:hover {
     object-fit: cover;
 }
 
-.gallery {
+.myphotos {
     display: grid;
     grid-template-columns: repeat(8, 1fr);
     grid-template-rows: repeat(8, 5vw);
