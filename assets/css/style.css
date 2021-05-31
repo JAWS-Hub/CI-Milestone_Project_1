@@ -30,10 +30,6 @@ nav li a:hover {
     text-decoration: underline;
 }    
 
-#logo {
-    font-size: 250%;
-
-}
 
 .whygeo {
   border: 5px outset black;
@@ -49,15 +45,6 @@ nav li a:hover {
   background-color: lightgreen;    
   text-align: center;
   color: antiquewhite;
-}
-
-#trail-image {
-    
-    height: 1000px;
-    width: 60%%;
-    background: url('../images/atrail.jpg') no-repeat center center;
-    animation: enter-trail 7s forwards;
-
 }
 
 #compassimage {
@@ -81,21 +68,6 @@ nav li a:hover {
     grid-template-columns: repeat(8, 1fr);
     grid-template-rows: repeat(8, 5vw);
     grid-gap: 15px;
-}
-
-
-@keyframes enter-trail {
-    from{
-        transform: scale(0.8);
-    }
-    to{
-        transform: scale(1.1);
-    }
-}
-
-img {
-  max-width: 100%;
-  height: auto;
 }
 
 footer h5 {
