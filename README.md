@@ -1,4 +1,4 @@
-Hello.
+Hello
 
 No installation is required to view this website.
 
